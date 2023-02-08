@@ -1,6 +1,6 @@
-var a=10,b=20,c;
-c=a;
+var a=10, b=20,t;
+t=a;
 a=b;
-b=c;
+b=t;
 console.log("a=",a);
 console.log("b=",b);
